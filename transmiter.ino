@@ -11,7 +11,7 @@ const byte addresses[][6] = {"00001", "00002"};
 #define pinY A0
 #define pinZ A3
 #define pinT A2
-// i have sapace, so i do want i want :)
+
 int cx;
 int cy;
 int cz;
